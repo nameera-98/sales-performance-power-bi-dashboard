@@ -1,5 +1,21 @@
 # sales-performance-power-bi-dashboard
-Interactive Power BI dashboard for analyzing sales, profit, customer, and order performance.
+
+Developed an interactive Power BI dashboard to analyze sales, profit, customer, and order performance across different years and regions. The dashboard includes year-over-year growth analysis, customer analysis, and product performance analysis.
+
+## Tools Used
+
+- Power BI
+- DAX
+- Power Query
+
+## Steps
+
+1.Cleaned and transformed data using Power Query
+2.Created DAX measures and calculated columns
+3.Created relationships and a date table
+4.Built interactive dashboards using KPIs, slicers, and visualizations
+5.Added navigation buttons to move between dashboard pages
+6.Analyzed year-over-year sales and profit performance
 
 ## Dashboard Preview
 
@@ -15,14 +31,6 @@ Interactive Power BI dashboard for analyzing sales, profit, customer, and order 
 <img width="1182" height="857" alt="customer" src="https://github.com/user-attachments/assets/76d665e8-45ba-4405-81b7-9cdab82154c5" />
 
 
-## Tools Used
 
-- Power BI
-- DAX
-- Power Query
 
-## Dashboard Pages
 
-- Sales Overview – Overall sales, profit, orders, customers, and year-over-year performance
-- Customer Analysis – Customer-level sales and performance analysis
-- Product Performance – Product sales and performance analysis
