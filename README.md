@@ -11,10 +11,15 @@ Developed an interactive Power BI dashboard to analyze sales, profit, customer, 
 ## Steps
 
 1.Cleaned and transformed data using Power Query 
+
 2.Created DAX measures and calculated columns 
+
 3.Created relationships and a date table 
+
 4.Built interactive dashboards using KPIs, slicers, and visualizations
+
 5.Added navigation buttons to move between dashboard pages
+
 6.Analyzed year-over-year sales and profit performance
 
 ## Dashboard Preview
