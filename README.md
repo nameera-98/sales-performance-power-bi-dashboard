@@ -8,7 +8,7 @@ Interactive Power BI dashboard for analyzing sales, profit, customer, and order 
 
 
 ### Product Performance
-<img width="1165" height="875" alt="product" src="https://github.com/user-attachments/assets/d0259ce6-23fe-4d5c-b7a9-d9378511c9f1" 
+<img width="1165" height="875" alt="product" src="https://github.com/user-attachments/assets/d0259ce6-23fe-4d5c-b7a9-d9378511c9f1" />
   
 
 ### Customer Analysis
