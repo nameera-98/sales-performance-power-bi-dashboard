@@ -11,7 +11,7 @@ Developed an interactive Power BI dashboard to analyze sales, profit, customer, 
 - Data visualisation
   
 ## Steps
-1. Imported the UAE real estate dataset into Power BI and reviewed the data.
+1.Imported the UAE real estate dataset into Power BI and reviewed the data.
  
 2.Cleaned and transformed data using Power Query 
 
