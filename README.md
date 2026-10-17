@@ -7,7 +7,9 @@ Developed an interactive Power BI dashboard to analyze sales, profit, customer, 
 - Power BI
 - DAX
 - Power Query
-
+- Data cleaning
+- Data visualisation
+  
 ## Steps
 
 1.Cleaned and transformed data using Power Query 
